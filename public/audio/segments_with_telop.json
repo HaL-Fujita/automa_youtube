@@ -1402,40 +1402,11 @@
   },
   {
     "index": 57,
-    "text": "6-1.まず日本語で仕様を決める（5:40〜6:10）",
-    "audio_file": "audio/segment_057.wav",
-    "duration_seconds": 5.9093333333333335,
-    "start_frame": 6330,
-    "end_frame": 6508,
-    "duration_frames": 178,
-    "telop_lines": [
-      {
-        "text": "6-1.まず日本語で",
-        "startFrame": 0,
-        "endFrame": 59,
-        "durationFrames": 59
-      },
-      {
-        "text": "仕様を決める（5:",
-        "startFrame": 59,
-        "endFrame": 118,
-        "durationFrames": 59
-      },
-      {
-        "text": "40〜6:10）",
-        "startFrame": 118,
-        "endFrame": 178,
-        "durationFrames": 60
-      }
-    ]
-  },
-  {
-    "index": 58,
     "text": "ここで意識するのは、いきなりコードじゃなくて、“日本語で仕様を書く”ところから始めます。",
     "audio_file": "audio/segment_058.wav",
     "duration_seconds": 5.472,
-    "start_frame": 6518,
-    "end_frame": 6683,
+    "start_frame": 6330,
+    "end_frame": 6495,
     "duration_frames": 165,
     "telop_lines": [
       {
@@ -1465,12 +1436,12 @@
     ]
   },
   {
-    "index": 59,
+    "index": 58,
     "text": "例として決める内容を骨子だけ書き出すとこんな感じ。",
     "audio_file": "audio/segment_059.wav",
     "duration_seconds": 3.136,
-    "start_frame": 6693,
-    "end_frame": 6788,
+    "start_frame": 6505,
+    "end_frame": 6600,
     "duration_frames": 95,
     "telop_lines": [
       {
@@ -1488,12 +1459,12 @@
     ]
   },
   {
-    "index": 60,
+    "index": 59,
     "text": "尺：30秒前後",
     "audio_file": "audio/segment_060.wav",
     "duration_seconds": 1.92,
-    "start_frame": 6798,
-    "end_frame": 6856,
+    "start_frame": 6610,
+    "end_frame": 6668,
     "duration_frames": 58,
     "telop_lines": [
       {
@@ -1505,12 +1476,12 @@
     ]
   },
   {
-    "index": 61,
+    "index": 60,
     "text": "構成：",
     "audio_file": "audio/segment_061.wav",
     "duration_seconds": 0.7146666666666667,
-    "start_frame": 6866,
-    "end_frame": 6888,
+    "start_frame": 6678,
+    "end_frame": 6700,
     "duration_frames": 22,
     "telop_lines": [
       {
@@ -1522,12 +1493,12 @@
     ]
   },
   {
-    "index": 62,
+    "index": 61,
     "text": "0〜5秒：タイトル",
     "audio_file": "audio/segment_062.wav",
     "duration_seconds": 1.92,
-    "start_frame": 6898,
-    "end_frame": 6956,
+    "start_frame": 6710,
+    "end_frame": 6768,
     "duration_frames": 58,
     "telop_lines": [
       {
@@ -1539,12 +1510,12 @@
     ]
   },
   {
-    "index": 63,
+    "index": 62,
     "text": "5〜26秒：ポイント3つを順番に表示（各7秒）",
     "audio_file": "audio/segment_063.wav",
     "duration_seconds": 4.384,
-    "start_frame": 6966,
-    "end_frame": 7098,
+    "start_frame": 6778,
+    "end_frame": 6910,
     "duration_frames": 132,
     "telop_lines": [
       {
@@ -1562,12 +1533,12 @@
     ]
   },
   {
-    "index": 64,
+    "index": 63,
     "text": "26〜30秒：まとめ",
     "audio_file": "audio/segment_064.wav",
     "duration_seconds": 2.485333333333333,
-    "start_frame": 7108,
-    "end_frame": 7183,
+    "start_frame": 6920,
+    "end_frame": 6995,
     "duration_frames": 75,
     "telop_lines": [
       {
@@ -1579,12 +1550,12 @@
     ]
   },
   {
-    "index": 65,
+    "index": 64,
     "text": "背景色・文字色：落ち着いた見やすい配色",
     "audio_file": "audio/segment_065.wav",
     "duration_seconds": 3.4133333333333336,
-    "start_frame": 7193,
-    "end_frame": 7296,
+    "start_frame": 7005,
+    "end_frame": 7108,
     "duration_frames": 103,
     "telop_lines": [
       {
@@ -1602,12 +1573,12 @@
     ]
   },
   {
-    "index": 66,
+    "index": 65,
     "text": "さっきの仕様を、そのままAIへの“お願い文章”に変えていきます。",
     "audio_file": "audio/segment_066.wav",
     "duration_seconds": 4.661333333333333,
-    "start_frame": 7306,
-    "end_frame": 7446,
+    "start_frame": 7118,
+    "end_frame": 7258,
     "duration_frames": 140,
     "telop_lines": [
       {
@@ -1631,12 +1602,12 @@
     ]
   },
   {
-    "index": 67,
+    "index": 66,
     "text": "含めるポイントは以下の通りです。",
     "audio_file": "audio/segment_067.wav",
     "duration_seconds": 1.9626666666666666,
-    "start_frame": 7456,
-    "end_frame": 7515,
+    "start_frame": 7268,
+    "end_frame": 7327,
     "duration_frames": 59,
     "telop_lines": [
       {
@@ -1648,12 +1619,12 @@
     ]
   },
   {
-    "index": 68,
+    "index": 67,
     "text": "Remotionで30秒の動画コンポーネントを作ってほしい",
     "audio_file": "audio/segment_068.wav",
     "duration_seconds": 3.3813333333333335,
-    "start_frame": 7525,
-    "end_frame": 7627,
+    "start_frame": 7337,
+    "end_frame": 7439,
     "duration_frames": 102,
     "telop_lines": [
       {
@@ -1671,12 +1642,12 @@
     ]
   },
   {
-    "index": 69,
+    "index": 68,
     "text": "秒数ごとに表示するテキストを指定",
     "audio_file": "audio/segment_069.wav",
     "duration_seconds": 2.4106666666666667,
-    "start_frame": 7637,
-    "end_frame": 7710,
+    "start_frame": 7449,
+    "end_frame": 7522,
     "duration_frames": 73,
     "telop_lines": [
       {
@@ -1694,12 +1665,12 @@
     ]
   },
   {
-    "index": 70,
+    "index": 69,
     "text": "背景・フォントサイズなども希望を書く",
     "audio_file": "audio/segment_070.wav",
     "duration_seconds": 2.624,
-    "start_frame": 7720,
-    "end_frame": 7799,
+    "start_frame": 7532,
+    "end_frame": 7611,
     "duration_frames": 79,
     "telop_lines": [
       {
@@ -1711,12 +1682,12 @@
     ]
   },
   {
-    "index": 71,
+    "index": 70,
     "text": "「React初心者なのでコメント多めで」と頼む",
     "audio_file": "audio/segment_071.wav",
     "duration_seconds": 2.965333333333333,
-    "start_frame": 7809,
-    "end_frame": 7898,
+    "start_frame": 7621,
+    "end_frame": 7710,
     "duration_frames": 89,
     "telop_lines": [
       {
@@ -1734,12 +1705,12 @@
     ]
   },
   {
-    "index": 72,
+    "index": 71,
     "text": "プロンプトは箇条書きで書くと真似しやすいですよ！",
     "audio_file": "audio/segment_072.wav",
     "duration_seconds": 2.816,
-    "start_frame": 7908,
-    "end_frame": 7993,
+    "start_frame": 7720,
+    "end_frame": 7805,
     "duration_frames": 85,
     "telop_lines": [
       {
@@ -1757,12 +1728,12 @@
     ]
   },
   {
-    "index": 73,
+    "index": 72,
     "text": "さて、ここまで書くとclaude code がコードを生成してくれます。けっこう長いコードができますが、生成されるコードをすべて理解する必要はありません。",
     "audio_file": "audio/segment_073.wav",
     "duration_seconds": 9.269333333333334,
-    "start_frame": 8003,
-    "end_frame": 8282,
+    "start_frame": 7815,
+    "end_frame": 8094,
     "duration_frames": 279,
     "telop_lines": [
       {
@@ -1804,12 +1775,12 @@
     ]
   },
   {
-    "index": 74,
+    "index": 73,
     "text": "remotionのスタジオ機能でプレビューが確認できるので、そちらをみながら調整していきましょう。",
     "audio_file": "audio/segment_074.wav",
     "duration_seconds": 5.376,
-    "start_frame": 8292,
-    "end_frame": 8454,
+    "start_frame": 8104,
+    "end_frame": 8266,
     "duration_frames": 162,
     "telop_lines": [
       {
@@ -1845,12 +1816,12 @@
     ]
   },
   {
-    "index": 75,
+    "index": 74,
     "text": "文字の色やサイズを変えたい場合は、右の窓にpropsという設定画面があるので、そこを直接いじって変更ができます！",
     "audio_file": "audio/segment_075.wav",
     "duration_seconds": 7.370666666666667,
-    "start_frame": 8464,
-    "end_frame": 8686,
+    "start_frame": 8276,
+    "end_frame": 8498,
     "duration_frames": 222,
     "telop_lines": [
       {
@@ -1892,12 +1863,12 @@
     ]
   },
   {
-    "index": 76,
+    "index": 75,
     "text": "ちなみにこの窓はカスタマイズ可能なので、理解できてみたらプロンプトでお願いしてみて下さいね！",
     "audio_file": "audio/segment_076.wav",
     "duration_seconds": 5.6,
-    "start_frame": 8696,
-    "end_frame": 8864,
+    "start_frame": 8508,
+    "end_frame": 8676,
     "duration_frames": 168,
     "telop_lines": [
       {
@@ -1927,12 +1898,12 @@
     ]
   },
   {
-    "index": 77,
+    "index": 76,
     "text": "はじめて環境を作ると、正直なんかしらエラー出ることが多いです。",
     "audio_file": "audio/segment_077.wav",
     "duration_seconds": 4.192,
-    "start_frame": 8874,
-    "end_frame": 9000,
+    "start_frame": 8686,
+    "end_frame": 8812,
     "duration_frames": 126,
     "telop_lines": [
       {
@@ -1956,12 +1927,12 @@
     ]
   },
   {
-    "index": 78,
+    "index": 77,
     "text": "そういうときも焦らずにいっこいっこ対応していきましょう！",
     "audio_file": "audio/segment_078.wav",
     "duration_seconds": 3.082666666666667,
-    "start_frame": 9010,
-    "end_frame": 9103,
+    "start_frame": 8822,
+    "end_frame": 8915,
     "duration_frames": 93,
     "telop_lines": [
       {
@@ -1985,12 +1956,12 @@
     ]
   },
   {
-    "index": 79,
+    "index": 78,
     "text": "エラーが出たら、エラー文面をそのままターミナルにコピーして、クロードに聞いてみましょう。",
     "audio_file": "audio/segment_079.wav",
     "duration_seconds": 5.0986666666666665,
-    "start_frame": 9113,
-    "end_frame": 9266,
+    "start_frame": 8925,
+    "end_frame": 9078,
     "duration_frames": 153,
     "telop_lines": [
       {
@@ -2020,12 +1991,12 @@
     ]
   },
   {
-    "index": 80,
+    "index": 79,
     "text": "一番大変なのは“最初の1本目”だけで、",
     "audio_file": "audio/segment_080.wav",
     "duration_seconds": 3.2746666666666666,
-    "start_frame": 9276,
-    "end_frame": 9375,
+    "start_frame": 9088,
+    "end_frame": 9187,
     "duration_frames": 99,
     "telop_lines": [
       {
@@ -2043,12 +2014,12 @@
     ]
   },
   {
-    "index": 81,
+    "index": 80,
     "text": "2本目からはファイルをコピーして、プロンプトを差し替えすることで量産できます！",
     "audio_file": "audio/segment_081.wav",
     "duration_seconds": 4.597333333333333,
-    "start_frame": 9385,
-    "end_frame": 9523,
+    "start_frame": 9197,
+    "end_frame": 9335,
     "duration_frames": 138,
     "telop_lines": [
       {
@@ -2072,12 +2043,12 @@
     ]
   },
   {
-    "index": 82,
+    "index": 81,
     "text": "まずは、きょうのミニデモみたいな30秒動画を、まるっと真似してみてください",
     "audio_file": "audio/segment_082.wav",
     "duration_seconds": 4.661333333333333,
-    "start_frame": 9533,
-    "end_frame": 9673,
+    "start_frame": 9345,
+    "end_frame": 9485,
     "duration_frames": 140,
     "telop_lines": [
       {
@@ -2107,12 +2078,12 @@
     ]
   },
   {
-    "index": 83,
+    "index": 82,
     "text": "慣れてきたら、“画像も入れて”“BGMもつけて”“テロップを動かして”みたいに、欲張りオーダーをAIにしていきましょう",
     "audio_file": "audio/segment_083.wav",
     "duration_seconds": 7.722666666666667,
-    "start_frame": 9683,
-    "end_frame": 9915,
+    "start_frame": 9495,
+    "end_frame": 9727,
     "duration_frames": 232,
     "telop_lines": [
       {
