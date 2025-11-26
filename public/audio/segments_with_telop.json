@@ -1,0 +1,2156 @@
+[
+  {
+    "index": 0,
+    "text": "こんにちは！僕はおうとまくん、生成AIを一緒に勉強するロボットだよ！",
+    "audio_file": "audio/segment_000.wav",
+    "duration_seconds": 5.109333333333334,
+    "start_frame": 0,
+    "end_frame": 154,
+    "duration_frames": 154,
+    "telop_lines": [
+      {
+        "text": "こんにちは！僕はおうとまくん、生成AIを",
+        "startFrame": 0,
+        "endFrame": 51,
+        "durationFrames": 51
+      },
+      {
+        "text": "一緒に勉強する",
+        "startFrame": 51,
+        "endFrame": 102,
+        "durationFrames": 51
+      },
+      {
+        "text": "ロボットだよ！",
+        "startFrame": 102,
+        "endFrame": 154,
+        "durationFrames": 52
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "text": "今日はremotion とclaude code できれいな動画生成に挑戦してみたから、",
+    "audio_file": "audio/segment_001.wav",
+    "duration_seconds": 4.789333333333333,
+    "start_frame": 164,
+    "end_frame": 308,
+    "duration_frames": 144,
+    "telop_lines": [
+      {
+        "text": "今日はremotion とclaude code できれいな",
+        "startFrame": 0,
+        "endFrame": 72,
+        "durationFrames": 72
+      },
+      {
+        "text": "動画生成に挑戦してみたから、",
+        "startFrame": 72,
+        "endFrame": 144,
+        "durationFrames": 72
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "text": "解説と一緒に観てくれるとうれしいな。",
+    "audio_file": "audio/segment_002.wav",
+    "duration_seconds": 2.304,
+    "start_frame": 318,
+    "end_frame": 388,
+    "duration_frames": 70,
+    "telop_lines": [
+      {
+        "text": "解説と一緒に観て",
+        "startFrame": 0,
+        "endFrame": 35,
+        "durationFrames": 35
+      },
+      {
+        "text": "くれるとうれしいな。",
+        "startFrame": 35,
+        "endFrame": 70,
+        "durationFrames": 35
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "text": "みんな、動画を投稿したい！ってなっても",
+    "audio_file": "audio/segment_003.wav",
+    "duration_seconds": 2.965333333333333,
+    "start_frame": 398,
+    "end_frame": 487,
+    "duration_frames": 89,
+    "telop_lines": [
+      {
+        "text": "みんな、動画を投稿したい！ってなっても",
+        "startFrame": 0,
+        "endFrame": 89,
+        "durationFrames": 89
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "text": "「動画編集って難しそう。。」",
+    "audio_file": "audio/segment_004.wav",
+    "duration_seconds": 1.7493333333333334,
+    "start_frame": 497,
+    "end_frame": 550,
+    "duration_frames": 53,
+    "telop_lines": [
+      {
+        "text": "「動画編集って難しそう。。」",
+        "startFrame": 0,
+        "endFrame": 53,
+        "durationFrames": 53
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "text": "「プログラミングやったことないんだけど、ひとりでできるかな？」",
+    "audio_file": "audio/segment_005.wav",
+    "duration_seconds": 3.4346666666666668,
+    "start_frame": 560,
+    "end_frame": 664,
+    "duration_frames": 104,
+    "telop_lines": [
+      {
+        "text": "「プログラミングやった",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      },
+      {
+        "text": "ことないんだけど、",
+        "startFrame": 34,
+        "endFrame": 68,
+        "durationFrames": 34
+      },
+      {
+        "text": "ひとりでできるかな？」",
+        "startFrame": 68,
+        "endFrame": 104,
+        "durationFrames": 36
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "text": "とか、悩んだことはないかな？",
+    "audio_file": "audio/segment_006.wav",
+    "duration_seconds": 2.1546666666666665,
+    "start_frame": 674,
+    "end_frame": 739,
+    "duration_frames": 65,
+    "telop_lines": [
+      {
+        "text": "とか、悩んだことはないかな？",
+        "startFrame": 0,
+        "endFrame": 65,
+        "durationFrames": 65
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "text": "今回は、そんな皆さんにむけて",
+    "audio_file": "audio/segment_007.wav",
+    "duration_seconds": 2.24,
+    "start_frame": 749,
+    "end_frame": 817,
+    "duration_frames": 68,
+    "telop_lines": [
+      {
+        "text": "今回は、そんな皆さんにむけて",
+        "startFrame": 0,
+        "endFrame": 68,
+        "durationFrames": 68
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "text": "windowsで動画プログラミングを行う方法を教えちゃいます！！",
+    "audio_file": "audio/segment_008.wav",
+    "duration_seconds": 3.562666666666667,
+    "start_frame": 827,
+    "end_frame": 934,
+    "duration_frames": 107,
+    "telop_lines": [
+      {
+        "text": "windowsで動画",
+        "startFrame": 0,
+        "endFrame": 35,
+        "durationFrames": 35
+      },
+      {
+        "text": "プログラミングを行う",
+        "startFrame": 35,
+        "endFrame": 70,
+        "durationFrames": 35
+      },
+      {
+        "text": "方法を教えちゃいます！！",
+        "startFrame": 70,
+        "endFrame": 107,
+        "durationFrames": 37
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "text": "導入からざっくりとした使い方まで、雰囲気をつかんでくれるとうれしいな！！",
+    "audio_file": "audio/segment_009.wav",
+    "duration_seconds": 4.512,
+    "start_frame": 944,
+    "end_frame": 1080,
+    "duration_frames": 136,
+    "telop_lines": [
+      {
+        "text": "導入からざっくりとした",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      },
+      {
+        "text": "使い方まで、雰囲気を",
+        "startFrame": 34,
+        "endFrame": 68,
+        "durationFrames": 34
+      },
+      {
+        "text": "つかんでくれると",
+        "startFrame": 68,
+        "endFrame": 102,
+        "durationFrames": 34
+      },
+      {
+        "text": "うれしいな！！",
+        "startFrame": 102,
+        "endFrame": 136,
+        "durationFrames": 34
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "text": "今回の動画のゴールは、remotionとclaude codeを導入して簡単な動画を作成するところです！",
+    "audio_file": "audio/segment_010.wav",
+    "duration_seconds": 5.888,
+    "start_frame": 1090,
+    "end_frame": 1267,
+    "duration_frames": 177,
+    "telop_lines": [
+      {
+        "text": "今回の動画のゴールは、remotionとclaude codeを導入して",
+        "startFrame": 0,
+        "endFrame": 88,
+        "durationFrames": 88
+      },
+      {
+        "text": "簡単な動画を作成するところです！",
+        "startFrame": 88,
+        "endFrame": 177,
+        "durationFrames": 89
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "text": "今日のメニューは",
+    "audio_file": "audio/segment_011.wav",
+    "duration_seconds": 1.0133333333333334,
+    "start_frame": 1277,
+    "end_frame": 1308,
+    "duration_frames": 31,
+    "telop_lines": [
+      {
+        "text": "今日のメニューは",
+        "startFrame": 0,
+        "endFrame": 31,
+        "durationFrames": 31
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "text": "１ Claude Codeってなに？",
+    "audio_file": "audio/segment_012.wav",
+    "duration_seconds": 2.1973333333333334,
+    "start_frame": 1318,
+    "end_frame": 1384,
+    "duration_frames": 66,
+    "telop_lines": [
+      {
+        "text": "１ Claude Codeってなに？",
+        "startFrame": 0,
+        "endFrame": 66,
+        "durationFrames": 66
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "text": "２ Remotionってなに？",
+    "audio_file": "audio/segment_013.wav",
+    "duration_seconds": 1.8666666666666667,
+    "start_frame": 1394,
+    "end_frame": 1450,
+    "duration_frames": 56,
+    "telop_lines": [
+      {
+        "text": "２ Remotionってなに？",
+        "startFrame": 0,
+        "endFrame": 56,
+        "durationFrames": 56
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "text": "３ かんたんな動画を1本作るまでの流れ",
+    "audio_file": "audio/segment_014.wav",
+    "duration_seconds": 3.1786666666666665,
+    "start_frame": 1460,
+    "end_frame": 1556,
+    "duration_frames": 96,
+    "telop_lines": [
+      {
+        "text": "３ かんたんな動画を",
+        "startFrame": 0,
+        "endFrame": 48,
+        "durationFrames": 48
+      },
+      {
+        "text": "1本作るまでの流れ",
+        "startFrame": 48,
+        "endFrame": 96,
+        "durationFrames": 48
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "text": "の３本立てです！",
+    "audio_file": "audio/segment_015.wav",
+    "duration_seconds": 1.1306666666666667,
+    "start_frame": 1566,
+    "end_frame": 1600,
+    "duration_frames": 34,
+    "telop_lines": [
+      {
+        "text": "の３本立てです！",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "text": "では、まずはclaude codeの説明から行います。",
+    "audio_file": "audio/segment_016.wav",
+    "duration_seconds": 3.1573333333333333,
+    "start_frame": 1610,
+    "end_frame": 1705,
+    "duration_frames": 95,
+    "telop_lines": [
+      {
+        "text": "では、まずはclaude codeの説明から",
+        "startFrame": 0,
+        "endFrame": 47,
+        "durationFrames": 47
+      },
+      {
+        "text": "行います。",
+        "startFrame": 47,
+        "endFrame": 95,
+        "durationFrames": 48
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "text": "Claude Codeは、“コードを書いてくれるチャット相手”みたいなAIです。",
+    "audio_file": "audio/segment_017.wav",
+    "duration_seconds": 4.16,
+    "start_frame": 1715,
+    "end_frame": 1840,
+    "duration_frames": 125,
+    "telop_lines": [
+      {
+        "text": "Claude Codeは、“コードを",
+        "startFrame": 0,
+        "endFrame": 41,
+        "durationFrames": 41
+      },
+      {
+        "text": "書いてくれるチャット",
+        "startFrame": 41,
+        "endFrame": 82,
+        "durationFrames": 41
+      },
+      {
+        "text": "相手”みたいなAIです。",
+        "startFrame": 82,
+        "endFrame": 125,
+        "durationFrames": 43
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "text": "導入には、node.js と、npm コマンドが使える環境が必要です！",
+    "audio_file": "audio/segment_018.wav",
+    "duration_seconds": 6.048,
+    "start_frame": 1850,
+    "end_frame": 2032,
+    "duration_frames": 182,
+    "telop_lines": [
+      {
+        "text": "導入には、node.",
+        "startFrame": 0,
+        "endFrame": 60,
+        "durationFrames": 60
+      },
+      {
+        "text": "js と、npm ",
+        "startFrame": 60,
+        "endFrame": 120,
+        "durationFrames": 60
+      },
+      {
+        "text": "コマンドが使える環境が必要です！",
+        "startFrame": 120,
+        "endFrame": 182,
+        "durationFrames": 62
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "text": "また、claude code 自体、導入にお金がかかるのですが、月数百円程度でけっこう使えるので、試しにやってみたい！という方にもおすすめです！",
+    "audio_file": "audio/segment_019.wav",
+    "duration_seconds": 9.642666666666667,
+    "start_frame": 2042,
+    "end_frame": 2332,
+    "duration_frames": 290,
+    "telop_lines": [
+      {
+        "text": "また、claude code 自体、導入に",
+        "startFrame": 0,
+        "endFrame": 48,
+        "durationFrames": 48
+      },
+      {
+        "text": "お金がかかるのですが、",
+        "startFrame": 48,
+        "endFrame": 96,
+        "durationFrames": 48
+      },
+      {
+        "text": "月数百円程度で",
+        "startFrame": 96,
+        "endFrame": 144,
+        "durationFrames": 48
+      },
+      {
+        "text": "けっこう使えるので、",
+        "startFrame": 144,
+        "endFrame": 192,
+        "durationFrames": 48
+      },
+      {
+        "text": "試しにやってみたい！という",
+        "startFrame": 192,
+        "endFrame": 240,
+        "durationFrames": 48
+      },
+      {
+        "text": "方にもおすすめです！",
+        "startFrame": 240,
+        "endFrame": 290,
+        "durationFrames": 50
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "text": "claude code が普通のチャットボットと違うところは、",
+    "audio_file": "audio/segment_020.wav",
+    "duration_seconds": 3.2106666666666666,
+    "start_frame": 2342,
+    "end_frame": 2439,
+    "duration_frames": 97,
+    "telop_lines": [
+      {
+        "text": "claude code が普通の",
+        "startFrame": 0,
+        "endFrame": 48,
+        "durationFrames": 48
+      },
+      {
+        "text": "チャットボットと違うところは、",
+        "startFrame": 48,
+        "endFrame": 97,
+        "durationFrames": 49
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "text": "プロジェクト全体のファイルを見てくれる",
+    "audio_file": "audio/segment_021.wav",
+    "duration_seconds": 2.2186666666666666,
+    "start_frame": 2449,
+    "end_frame": 2516,
+    "duration_frames": 67,
+    "telop_lines": [
+      {
+        "text": "プロジェクト全体の",
+        "startFrame": 0,
+        "endFrame": 33,
+        "durationFrames": 33
+      },
+      {
+        "text": "ファイルを見てくれる",
+        "startFrame": 33,
+        "endFrame": 67,
+        "durationFrames": 34
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "text": "新しいファイルをまとめて作ってくれる",
+    "audio_file": "audio/segment_022.wav",
+    "duration_seconds": 2.2506666666666666,
+    "start_frame": 2526,
+    "end_frame": 2594,
+    "duration_frames": 68,
+    "telop_lines": [
+      {
+        "text": "新しいファイルを",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      },
+      {
+        "text": "まとめて作ってくれる",
+        "startFrame": 34,
+        "endFrame": 68,
+        "durationFrames": 34
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "text": "エラー文を投げると、原因と直し方を説明してくれる",
+    "audio_file": "audio/segment_023.wav",
+    "duration_seconds": 3.6906666666666665,
+    "start_frame": 2604,
+    "end_frame": 2715,
+    "duration_frames": 111,
+    "telop_lines": [
+      {
+        "text": "エラー文を投げると、",
+        "startFrame": 0,
+        "endFrame": 55,
+        "durationFrames": 55
+      },
+      {
+        "text": "原因と直し方を説明してくれる",
+        "startFrame": 55,
+        "endFrame": 111,
+        "durationFrames": 56
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "text": "といったコード全体のアシスタントをしてくれるところです。",
+    "audio_file": "audio/segment_024.wav",
+    "duration_seconds": 3.1253333333333333,
+    "start_frame": 2725,
+    "end_frame": 2819,
+    "duration_frames": 94,
+    "telop_lines": [
+      {
+        "text": "といったコード全体の",
+        "startFrame": 0,
+        "endFrame": 31,
+        "durationFrames": 31
+      },
+      {
+        "text": "アシスタントをして",
+        "startFrame": 31,
+        "endFrame": 62,
+        "durationFrames": 31
+      },
+      {
+        "text": "くれるところです。",
+        "startFrame": 62,
+        "endFrame": 94,
+        "durationFrames": 32
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "text": "ですので、",
+    "audio_file": "audio/segment_025.wav",
+    "duration_seconds": 0.7146666666666667,
+    "start_frame": 2829,
+    "end_frame": 2851,
+    "duration_frames": 22,
+    "telop_lines": [
+      {
+        "text": "ですので、",
+        "startFrame": 0,
+        "endFrame": 22,
+        "durationFrames": 22
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "text": "コードを100%理解しなくても大丈夫。7割分かれば上等、残りはAIに聞く",
+    "audio_file": "audio/segment_026.wav",
+    "duration_seconds": 5.674666666666667,
+    "start_frame": 2861,
+    "end_frame": 3032,
+    "duration_frames": 171,
+    "telop_lines": [
+      {
+        "text": "コードを100%理解",
+        "startFrame": 0,
+        "endFrame": 57,
+        "durationFrames": 57
+      },
+      {
+        "text": "しなくても大丈夫。7",
+        "startFrame": 57,
+        "endFrame": 114,
+        "durationFrames": 57
+      },
+      {
+        "text": "割分かれば上等、残りはAIに聞く",
+        "startFrame": 114,
+        "endFrame": 171,
+        "durationFrames": 57
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "text": "知らない単語は、そのままClaude Codeに『これ何？』って聞けばOK！",
+    "audio_file": "audio/segment_027.wav",
+    "duration_seconds": 4.714666666666667,
+    "start_frame": 3042,
+    "end_frame": 3184,
+    "duration_frames": 142,
+    "telop_lines": [
+      {
+        "text": "知らない単語は、そのままClaude Codeに『これ何？",
+        "startFrame": 0,
+        "endFrame": 71,
+        "durationFrames": 71
+      },
+      {
+        "text": "』って聞けばOK！",
+        "startFrame": 71,
+        "endFrame": 142,
+        "durationFrames": 71
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "text": "という使い方で大丈夫です！",
+    "audio_file": "audio/segment_028.wav",
+    "duration_seconds": 1.888,
+    "start_frame": 3194,
+    "end_frame": 3251,
+    "duration_frames": 57,
+    "telop_lines": [
+      {
+        "text": "という使い方で大丈夫です！",
+        "startFrame": 0,
+        "endFrame": 57,
+        "durationFrames": 57
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "text": "Remotionは、“ReactっていうWeb技術で動画を作るツール”です。",
+    "audio_file": "audio/segment_029.wav",
+    "duration_seconds": 4.352,
+    "start_frame": 3261,
+    "end_frame": 3392,
+    "duration_frames": 131,
+    "telop_lines": [
+      {
+        "text": "Remotionは、",
+        "startFrame": 0,
+        "endFrame": 32,
+        "durationFrames": 32
+      },
+      {
+        "text": "“Reactっていう",
+        "startFrame": 32,
+        "endFrame": 64,
+        "durationFrames": 32
+      },
+      {
+        "text": "Web技術で動画を",
+        "startFrame": 64,
+        "endFrame": 96,
+        "durationFrames": 32
+      },
+      {
+        "text": "作るツール”です。",
+        "startFrame": 96,
+        "endFrame": 131,
+        "durationFrames": 35
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "text": "でもreactが何かについてはとくにわかってなくても大丈夫！",
+    "audio_file": "audio/segment_030.wav",
+    "duration_seconds": 3.456,
+    "start_frame": 3402,
+    "end_frame": 3506,
+    "duration_frames": 104,
+    "telop_lines": [
+      {
+        "text": "でもreactが何か",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      },
+      {
+        "text": "についてはとくに",
+        "startFrame": 34,
+        "endFrame": 68,
+        "durationFrames": 34
+      },
+      {
+        "text": "わかってなくても大丈夫！",
+        "startFrame": 68,
+        "endFrame": 104,
+        "durationFrames": 36
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "text": "ふつうの編集ではマウスでタイムラインをいじりますが、remotionでは、「何秒〜何秒に何を出すか」をコードで書く、というふうに考えてくださいね。",
+    "audio_file": "audio/segment_031.wav",
+    "duration_seconds": 9.024,
+    "start_frame": 3516,
+    "end_frame": 3787,
+    "duration_frames": 271,
+    "telop_lines": [
+      {
+        "text": "ふつうの編集ではマウスでタイムラインをいじりますが、remotionでは、",
+        "startFrame": 0,
+        "endFrame": 54,
+        "durationFrames": 54
+      },
+      {
+        "text": "「何秒〜何秒に何を",
+        "startFrame": 54,
+        "endFrame": 108,
+        "durationFrames": 54
+      },
+      {
+        "text": "出すか」をコードで",
+        "startFrame": 108,
+        "endFrame": 162,
+        "durationFrames": 54
+      },
+      {
+        "text": "書く、というふうに",
+        "startFrame": 162,
+        "endFrame": 216,
+        "durationFrames": 54
+      },
+      {
+        "text": "考えてくださいね。",
+        "startFrame": 216,
+        "endFrame": 271,
+        "durationFrames": 55
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "text": "動画編集初心者としてありがたいのは、",
+    "audio_file": "audio/segment_032.wav",
+    "duration_seconds": 2.4,
+    "start_frame": 3797,
+    "end_frame": 3869,
+    "duration_frames": 72,
+    "telop_lines": [
+      {
+        "text": "動画編集初心者として",
+        "startFrame": 0,
+        "endFrame": 36,
+        "durationFrames": 36
+      },
+      {
+        "text": "ありがたいのは、",
+        "startFrame": 36,
+        "endFrame": 72,
+        "durationFrames": 36
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "text": "いったんテンプレができたら、テキスト差し替えで量産できる",
+    "audio_file": "audio/segment_033.wav",
+    "duration_seconds": 3.456,
+    "start_frame": 3879,
+    "end_frame": 3983,
+    "duration_frames": 104,
+    "telop_lines": [
+      {
+        "text": "いったんテンプレが",
+        "startFrame": 0,
+        "endFrame": 34,
+        "durationFrames": 34
+      },
+      {
+        "text": "できたら、テキスト",
+        "startFrame": 34,
+        "endFrame": 68,
+        "durationFrames": 34
+      },
+      {
+        "text": "差し替えで量産できる",
+        "startFrame": 68,
+        "endFrame": 104,
+        "durationFrames": 36
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "text": "解説動画・ニュース・商品紹介など“同じ型で大量生産”に強い",
+    "audio_file": "audio/segment_034.wav",
+    "duration_seconds": 5.461333333333333,
+    "start_frame": 3993,
+    "end_frame": 4157,
+    "duration_frames": 164,
+    "telop_lines": [
+      {
+        "text": "解説動画・ニュース・",
+        "startFrame": 0,
+        "endFrame": 54,
+        "durationFrames": 54
+      },
+      {
+        "text": "商品紹介など“同じ型で",
+        "startFrame": 54,
+        "endFrame": 108,
+        "durationFrames": 54
+      },
+      {
+        "text": "大量生産”に強い",
+        "startFrame": 108,
+        "endFrame": 164,
+        "durationFrames": 56
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "text": "ってところ。",
+    "audio_file": "audio/segment_035.wav",
+    "duration_seconds": 0.7253333333333334,
+    "start_frame": 4167,
+    "end_frame": 4189,
+    "duration_frames": 22,
+    "telop_lines": [
+      {
+        "text": "ってところ。",
+        "startFrame": 0,
+        "endFrame": 22,
+        "durationFrames": 22
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "text": "ここまで使うツールについて説明してきたけど、",
+    "audio_file": "audio/segment_036.wav",
+    "duration_seconds": 2.688,
+    "start_frame": 4199,
+    "end_frame": 4280,
+    "duration_frames": 81,
+    "telop_lines": [
+      {
+        "text": "ここまで使うツールについて",
+        "startFrame": 0,
+        "endFrame": 40,
+        "durationFrames": 40
+      },
+      {
+        "text": "説明してきたけど、",
+        "startFrame": 40,
+        "endFrame": 81,
+        "durationFrames": 41
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "text": "Remotion：動画を動かす「土台」",
+    "audio_file": "audio/segment_037.wav",
+    "duration_seconds": 2.485333333333333,
+    "start_frame": 4290,
+    "end_frame": 4365,
+    "duration_frames": 75,
+    "telop_lines": [
+      {
+        "text": "Remotion：",
+        "startFrame": 0,
+        "endFrame": 37,
+        "durationFrames": 37
+      },
+      {
+        "text": "動画を動かす「土台」",
+        "startFrame": 37,
+        "endFrame": 75,
+        "durationFrames": 38
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "text": "Claude Code：その上に乗せる「コード」を書いてくれる担当",
+    "audio_file": "audio/segment_038.wav",
+    "duration_seconds": 4.074666666666666,
+    "start_frame": 4375,
+    "end_frame": 4498,
+    "duration_frames": 123,
+    "telop_lines": [
+      {
+        "text": "Claude Code：その上に",
+        "startFrame": 0,
+        "endFrame": 41,
+        "durationFrames": 41
+      },
+      {
+        "text": "乗せる「コード」を",
+        "startFrame": 41,
+        "endFrame": 82,
+        "durationFrames": 41
+      },
+      {
+        "text": "書いてくれる担当",
+        "startFrame": 82,
+        "endFrame": 123,
+        "durationFrames": 41
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "text": "と覚えておいてくれるとうれしいな！",
+    "audio_file": "audio/segment_039.wav",
+    "duration_seconds": 1.9733333333333334,
+    "start_frame": 4508,
+    "end_frame": 4568,
+    "duration_frames": 60,
+    "telop_lines": [
+      {
+        "text": "と覚えておいてくれるとうれしいな！",
+        "startFrame": 0,
+        "endFrame": 60,
+        "durationFrames": 60
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "text": "ここではコードによる動画編集に必要なものを列挙していくよ。",
+    "audio_file": "audio/segment_040.wav",
+    "duration_seconds": 3.7226666666666666,
+    "start_frame": 4578,
+    "end_frame": 4690,
+    "duration_frames": 112,
+    "telop_lines": [
+      {
+        "text": "ここではコードによる",
+        "startFrame": 0,
+        "endFrame": 37,
+        "durationFrames": 37
+      },
+      {
+        "text": "動画編集に必要なものを",
+        "startFrame": 37,
+        "endFrame": 74,
+        "durationFrames": 37
+      },
+      {
+        "text": "列挙していくよ。",
+        "startFrame": 74,
+        "endFrame": 112,
+        "durationFrames": 38
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "text": "まず、PC（Windows / Mac）。それに、",
+    "audio_file": "audio/segment_041.wav",
+    "duration_seconds": 3.776,
+    "start_frame": 4700,
+    "end_frame": 4814,
+    "duration_frames": 114,
+    "telop_lines": [
+      {
+        "text": "まず、PC（",
+        "startFrame": 0,
+        "endFrame": 38,
+        "durationFrames": 38
+      },
+      {
+        "text": "Windows / ",
+        "startFrame": 38,
+        "endFrame": 76,
+        "durationFrames": 38
+      },
+      {
+        "text": "Mac）。それに、",
+        "startFrame": 76,
+        "endFrame": 114,
+        "durationFrames": 38
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "text": "Node.js",
+    "audio_file": "audio/segment_042.wav",
+    "duration_seconds": 1.3653333333333333,
+    "start_frame": 4824,
+    "end_frame": 4865,
+    "duration_frames": 41,
+    "telop_lines": [
+      {
+        "text": "Node.js",
+        "startFrame": 0,
+        "endFrame": 41,
+        "durationFrames": 41
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "text": "コードエディタ（VS Codeなど）",
+    "audio_file": "audio/segment_043.wav",
+    "duration_seconds": 2.1973333333333334,
+    "start_frame": 4875,
+    "end_frame": 4941,
+    "duration_frames": 66,
+    "telop_lines": [
+      {
+        "text": "コードエディタ（VS Codeなど）",
+        "startFrame": 0,
+        "endFrame": 66,
+        "durationFrames": 66
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "text": "Claude Code を使えるブラウザ環境",
+    "audio_file": "audio/segment_044.wav",
+    "duration_seconds": 2.6026666666666665,
+    "start_frame": 4951,
+    "end_frame": 5030,
+    "duration_frames": 79,
+    "telop_lines": [
+      {
+        "text": "Claude Code を使える",
+        "startFrame": 0,
+        "endFrame": 39,
+        "durationFrames": 39
+      },
+      {
+        "text": "ブラウザ環境",
+        "startFrame": 39,
+        "endFrame": 79,
+        "durationFrames": 40
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "text": "Remotion のスタータープロジェクト",
+    "audio_file": "audio/segment_045.wav",
+    "duration_seconds": 2.1866666666666665,
+    "start_frame": 5040,
+    "end_frame": 5106,
+    "duration_frames": 66,
+    "telop_lines": [
+      {
+        "text": "Remotion のスターター",
+        "startFrame": 0,
+        "endFrame": 33,
+        "durationFrames": 33
+      },
+      {
+        "text": "プロジェクト",
+        "startFrame": 33,
+        "endFrame": 66,
+        "durationFrames": 33
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "text": "が必要になってきます。",
+    "audio_file": "audio/segment_046.wav",
+    "duration_seconds": 1.4506666666666668,
+    "start_frame": 5116,
+    "end_frame": 5160,
+    "duration_frames": 44,
+    "telop_lines": [
+      {
+        "text": "が必要になってきます。",
+        "startFrame": 0,
+        "endFrame": 44,
+        "durationFrames": 44
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "text": "ここを細かくやるとそれだけで30分動画になるので、今回は“地図”としてのざっくり説明だけにとどめます。質問があったらコメントしてね！",
+    "audio_file": "audio/segment_047.wav",
+    "duration_seconds": 8.938666666666666,
+    "start_frame": 5170,
+    "end_frame": 5439,
+    "duration_frames": 269,
+    "telop_lines": [
+      {
+        "text": "ここを細かくやると",
+        "startFrame": 0,
+        "endFrame": 38,
+        "durationFrames": 38
+      },
+      {
+        "text": "それだけで30分動画に",
+        "startFrame": 38,
+        "endFrame": 76,
+        "durationFrames": 38
+      },
+      {
+        "text": "なるので、今回は“",
+        "startFrame": 76,
+        "endFrame": 114,
+        "durationFrames": 38
+      },
+      {
+        "text": "地図”としての",
+        "startFrame": 114,
+        "endFrame": 152,
+        "durationFrames": 38
+      },
+      {
+        "text": "ざっくり説明だけに",
+        "startFrame": 152,
+        "endFrame": 190,
+        "durationFrames": 38
+      },
+      {
+        "text": "とどめます。質問が",
+        "startFrame": 190,
+        "endFrame": 228,
+        "durationFrames": 38
+      },
+      {
+        "text": "あったらコメントしてね！",
+        "startFrame": 228,
+        "endFrame": 269,
+        "durationFrames": 41
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "text": "ざっくりの流れとしては、",
+    "audio_file": "audio/segment_048.wav",
+    "duration_seconds": 1.5146666666666666,
+    "start_frame": 5449,
+    "end_frame": 5495,
+    "duration_frames": 46,
+    "telop_lines": [
+      {
+        "text": "ざっくりの流れとしては、",
+        "startFrame": 0,
+        "endFrame": 46,
+        "durationFrames": 46
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "text": "Node.jsを公式サイトからインストール",
+    "audio_file": "audio/segment_049.wav",
+    "duration_seconds": 2.6773333333333333,
+    "start_frame": 5505,
+    "end_frame": 5586,
+    "duration_frames": 81,
+    "telop_lines": [
+      {
+        "text": "Node.jsを公式サイトから",
+        "startFrame": 0,
+        "endFrame": 40,
+        "durationFrames": 40
+      },
+      {
+        "text": "インストール",
+        "startFrame": 40,
+        "endFrame": 81,
+        "durationFrames": 41
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "text": "ターミナル（コマンドプロンプト）でRemotionプロジェクト作成",
+    "audio_file": "audio/segment_050.wav",
+    "duration_seconds": 4,
+    "start_frame": 5596,
+    "end_frame": 5716,
+    "duration_frames": 120,
+    "telop_lines": [
+      {
+        "text": "ターミナル（コマンドプロンプト）でRemotion",
+        "startFrame": 0,
+        "endFrame": 60,
+        "durationFrames": 60
+      },
+      {
+        "text": "プロジェクト作成",
+        "startFrame": 60,
+        "endFrame": 120,
+        "durationFrames": 60
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "text": "npm start でプレビュー",
+    "audio_file": "audio/segment_051.wav",
+    "duration_seconds": 1.7706666666666666,
+    "start_frame": 5726,
+    "end_frame": 5780,
+    "duration_frames": 54,
+    "telop_lines": [
+      {
+        "text": "npm start でプレビュー",
+        "startFrame": 0,
+        "endFrame": 54,
+        "durationFrames": 54
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "text": "といった感じになります。",
+    "audio_file": "audio/segment_052.wav",
+    "duration_seconds": 1.4506666666666668,
+    "start_frame": 5790,
+    "end_frame": 5834,
+    "duration_frames": 44,
+    "telop_lines": [
+      {
+        "text": "といった感じになります。",
+        "startFrame": 0,
+        "endFrame": 44,
+        "durationFrames": 44
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "text": "コマンドの意味は分からなくてOK。“コピペして動けば勝ち”くらいで大丈夫！！",
+    "audio_file": "audio/segment_053.wav",
+    "duration_seconds": 4.896,
+    "start_frame": 5844,
+    "end_frame": 5991,
+    "duration_frames": 147,
+    "telop_lines": [
+      {
+        "text": "コマンドの意味は",
+        "startFrame": 0,
+        "endFrame": 36,
+        "durationFrames": 36
+      },
+      {
+        "text": "分からなくてOK。“",
+        "startFrame": 36,
+        "endFrame": 72,
+        "durationFrames": 36
+      },
+      {
+        "text": "コピペして動けば勝ち",
+        "startFrame": 72,
+        "endFrame": 108,
+        "durationFrames": 36
+      },
+      {
+        "text": "”くらいで大丈夫！！",
+        "startFrame": 108,
+        "endFrame": 147,
+        "durationFrames": 39
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "text": "これがこれから行うフローの全体像だよ。",
+    "audio_file": "audio/segment_054.wav",
+    "duration_seconds": 2.6346666666666665,
+    "start_frame": 6001,
+    "end_frame": 6081,
+    "duration_frames": 80,
+    "telop_lines": [
+      {
+        "text": "これがこれから行う",
+        "startFrame": 0,
+        "endFrame": 40,
+        "durationFrames": 40
+      },
+      {
+        "text": "フローの全体像だよ。",
+        "startFrame": 40,
+        "endFrame": 80,
+        "durationFrames": 40
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "text": "このあとのパートで、②〜④をミニデモで見せます！",
+    "audio_file": "audio/segment_055.wav",
+    "duration_seconds": 2.464,
+    "start_frame": 6091,
+    "end_frame": 6165,
+    "duration_frames": 74,
+    "telop_lines": [
+      {
+        "text": "このあとのパートで、",
+        "startFrame": 0,
+        "endFrame": 37,
+        "durationFrames": 37
+      },
+      {
+        "text": "②〜④をミニデモで見せます！",
+        "startFrame": 37,
+        "endFrame": 74,
+        "durationFrames": 37
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "text": "全部理解する必要はなくて、“流れがイメージできたら勝ち”と思って見てね。",
+    "audio_file": "audio/segment_056.wav",
+    "duration_seconds": 4.8213333333333335,
+    "start_frame": 6175,
+    "end_frame": 6320,
+    "duration_frames": 145,
+    "telop_lines": [
+      {
+        "text": "全部理解する必要は",
+        "startFrame": 0,
+        "endFrame": 36,
+        "durationFrames": 36
+      },
+      {
+        "text": "なくて、“流れが",
+        "startFrame": 36,
+        "endFrame": 72,
+        "durationFrames": 36
+      },
+      {
+        "text": "イメージできたら勝ち",
+        "startFrame": 72,
+        "endFrame": 108,
+        "durationFrames": 36
+      },
+      {
+        "text": "”と思って見てね。",
+        "startFrame": 108,
+        "endFrame": 145,
+        "durationFrames": 37
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "text": "6-1.まず日本語で仕様を決める（5:40〜6:10）",
+    "audio_file": "audio/segment_057.wav",
+    "duration_seconds": 5.9093333333333335,
+    "start_frame": 6330,
+    "end_frame": 6508,
+    "duration_frames": 178,
+    "telop_lines": [
+      {
+        "text": "6-1.まず日本語で",
+        "startFrame": 0,
+        "endFrame": 59,
+        "durationFrames": 59
+      },
+      {
+        "text": "仕様を決める（5:",
+        "startFrame": 59,
+        "endFrame": 118,
+        "durationFrames": 59
+      },
+      {
+        "text": "40〜6:10）",
+        "startFrame": 118,
+        "endFrame": 178,
+        "durationFrames": 60
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "text": "ここで意識するのは、いきなりコードじゃなくて、“日本語で仕様を書く”ところから始めます。",
+    "audio_file": "audio/segment_058.wav",
+    "duration_seconds": 5.472,
+    "start_frame": 6518,
+    "end_frame": 6683,
+    "duration_frames": 165,
+    "telop_lines": [
+      {
+        "text": "ここで意識するのは、",
+        "startFrame": 0,
+        "endFrame": 41,
+        "durationFrames": 41
+      },
+      {
+        "text": "いきなりコードじゃなく",
+        "startFrame": 41,
+        "endFrame": 82,
+        "durationFrames": 41
+      },
+      {
+        "text": "て、“日本語で仕様を",
+        "startFrame": 82,
+        "endFrame": 123,
+        "durationFrames": 41
+      },
+      {
+        "text": "書く”ところから始めます。",
+        "startFrame": 123,
+        "endFrame": 165,
+        "durationFrames": 42
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "text": "例として決める内容を骨子だけ書き出すとこんな感じ。",
+    "audio_file": "audio/segment_059.wav",
+    "duration_seconds": 3.136,
+    "start_frame": 6693,
+    "end_frame": 6788,
+    "duration_frames": 95,
+    "telop_lines": [
+      {
+        "text": "例として決める内容を",
+        "startFrame": 0,
+        "endFrame": 47,
+        "durationFrames": 47
+      },
+      {
+        "text": "骨子だけ書き出すとこんな感じ。",
+        "startFrame": 47,
+        "endFrame": 95,
+        "durationFrames": 48
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "text": "尺：30秒前後",
+    "audio_file": "audio/segment_060.wav",
+    "duration_seconds": 1.92,
+    "start_frame": 6798,
+    "end_frame": 6856,
+    "duration_frames": 58,
+    "telop_lines": [
+      {
+        "text": "尺：30秒前後",
+        "startFrame": 0,
+        "endFrame": 58,
+        "durationFrames": 58
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "text": "構成：",
+    "audio_file": "audio/segment_061.wav",
+    "duration_seconds": 0.7146666666666667,
+    "start_frame": 6866,
+    "end_frame": 6888,
+    "duration_frames": 22,
+    "telop_lines": [
+      {
+        "text": "構成：",
+        "startFrame": 0,
+        "endFrame": 22,
+        "durationFrames": 22
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "text": "0〜5秒：タイトル",
+    "audio_file": "audio/segment_062.wav",
+    "duration_seconds": 1.92,
+    "start_frame": 6898,
+    "end_frame": 6956,
+    "duration_frames": 58,
+    "telop_lines": [
+      {
+        "text": "0〜5秒：タイトル",
+        "startFrame": 0,
+        "endFrame": 58,
+        "durationFrames": 58
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "text": "5〜26秒：ポイント3つを順番に表示（各7秒）",
+    "audio_file": "audio/segment_063.wav",
+    "duration_seconds": 4.384,
+    "start_frame": 6966,
+    "end_frame": 7098,
+    "duration_frames": 132,
+    "telop_lines": [
+      {
+        "text": "5〜26秒：ポイント",
+        "startFrame": 0,
+        "endFrame": 66,
+        "durationFrames": 66
+      },
+      {
+        "text": "3つを順番に表示（各7秒）",
+        "startFrame": 66,
+        "endFrame": 132,
+        "durationFrames": 66
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "text": "26〜30秒：まとめ",
+    "audio_file": "audio/segment_064.wav",
+    "duration_seconds": 2.485333333333333,
+    "start_frame": 7108,
+    "end_frame": 7183,
+    "duration_frames": 75,
+    "telop_lines": [
+      {
+        "text": "26〜30秒：まとめ",
+        "startFrame": 0,
+        "endFrame": 75,
+        "durationFrames": 75
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "text": "背景色・文字色：落ち着いた見やすい配色",
+    "audio_file": "audio/segment_065.wav",
+    "duration_seconds": 3.4133333333333336,
+    "start_frame": 7193,
+    "end_frame": 7296,
+    "duration_frames": 103,
+    "telop_lines": [
+      {
+        "text": "背景色・文字色：",
+        "startFrame": 0,
+        "endFrame": 51,
+        "durationFrames": 51
+      },
+      {
+        "text": "落ち着いた見やすい配色",
+        "startFrame": 51,
+        "endFrame": 103,
+        "durationFrames": 52
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "text": "さっきの仕様を、そのままAIへの“お願い文章”に変えていきます。",
+    "audio_file": "audio/segment_066.wav",
+    "duration_seconds": 4.661333333333333,
+    "start_frame": 7306,
+    "end_frame": 7446,
+    "duration_frames": 140,
+    "telop_lines": [
+      {
+        "text": "さっきの仕様を、",
+        "startFrame": 0,
+        "endFrame": 46,
+        "durationFrames": 46
+      },
+      {
+        "text": "そのままAIへの“",
+        "startFrame": 46,
+        "endFrame": 92,
+        "durationFrames": 46
+      },
+      {
+        "text": "お願い文章”に変えていきます。",
+        "startFrame": 92,
+        "endFrame": 140,
+        "durationFrames": 48
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "text": "含めるポイントは以下の通りです。",
+    "audio_file": "audio/segment_067.wav",
+    "duration_seconds": 1.9626666666666666,
+    "start_frame": 7456,
+    "end_frame": 7515,
+    "duration_frames": 59,
+    "telop_lines": [
+      {
+        "text": "含めるポイントは以下の通りです。",
+        "startFrame": 0,
+        "endFrame": 59,
+        "durationFrames": 59
+      }
+    ]
+  },
+  {
+    "index": 68,
+    "text": "Remotionで30秒の動画コンポーネントを作ってほしい",
+    "audio_file": "audio/segment_068.wav",
+    "duration_seconds": 3.3813333333333335,
+    "start_frame": 7525,
+    "end_frame": 7627,
+    "duration_frames": 102,
+    "telop_lines": [
+      {
+        "text": "Remotionで30秒の動画",
+        "startFrame": 0,
+        "endFrame": 51,
+        "durationFrames": 51
+      },
+      {
+        "text": "コンポーネントを作ってほしい",
+        "startFrame": 51,
+        "endFrame": 102,
+        "durationFrames": 51
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "text": "秒数ごとに表示するテキストを指定",
+    "audio_file": "audio/segment_069.wav",
+    "duration_seconds": 2.4106666666666667,
+    "start_frame": 7637,
+    "end_frame": 7710,
+    "duration_frames": 73,
+    "telop_lines": [
+      {
+        "text": "秒数ごとに表示する",
+        "startFrame": 0,
+        "endFrame": 36,
+        "durationFrames": 36
+      },
+      {
+        "text": "テキストを指定",
+        "startFrame": 36,
+        "endFrame": 73,
+        "durationFrames": 37
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "text": "背景・フォントサイズなども希望を書く",
+    "audio_file": "audio/segment_070.wav",
+    "duration_seconds": 2.624,
+    "start_frame": 7720,
+    "end_frame": 7799,
+    "duration_frames": 79,
+    "telop_lines": [
+      {
+        "text": "背景・フォントサイズなども希望を書く",
+        "startFrame": 0,
+        "endFrame": 79,
+        "durationFrames": 79
+      }
+    ]
+  },
+  {
+    "index": 71,
+    "text": "「React初心者なのでコメント多めで」と頼む",
+    "audio_file": "audio/segment_071.wav",
+    "duration_seconds": 2.965333333333333,
+    "start_frame": 7809,
+    "end_frame": 7898,
+    "duration_frames": 89,
+    "telop_lines": [
+      {
+        "text": "「React初心者なので",
+        "startFrame": 0,
+        "endFrame": 44,
+        "durationFrames": 44
+      },
+      {
+        "text": "コメント多めで」と頼む",
+        "startFrame": 44,
+        "endFrame": 89,
+        "durationFrames": 45
+      }
+    ]
+  },
+  {
+    "index": 72,
+    "text": "プロンプトは箇条書きで書くと真似しやすいですよ！",
+    "audio_file": "audio/segment_072.wav",
+    "duration_seconds": 2.816,
+    "start_frame": 7908,
+    "end_frame": 7993,
+    "duration_frames": 85,
+    "telop_lines": [
+      {
+        "text": "プロンプトは箇条書きで",
+        "startFrame": 0,
+        "endFrame": 42,
+        "durationFrames": 42
+      },
+      {
+        "text": "書くと真似しやすいですよ！",
+        "startFrame": 42,
+        "endFrame": 85,
+        "durationFrames": 43
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "text": "さて、ここまで書くとclaude code がコードを生成してくれます。けっこう長いコードができますが、生成されるコードをすべて理解する必要はありません。",
+    "audio_file": "audio/segment_073.wav",
+    "duration_seconds": 9.269333333333334,
+    "start_frame": 8003,
+    "end_frame": 8282,
+    "duration_frames": 279,
+    "telop_lines": [
+      {
+        "text": "さて、ここまで書くとclaude code がコードを",
+        "startFrame": 0,
+        "endFrame": 46,
+        "durationFrames": 46
+      },
+      {
+        "text": "生成してくれます。",
+        "startFrame": 46,
+        "endFrame": 92,
+        "durationFrames": 46
+      },
+      {
+        "text": "けっこう長いコードが",
+        "startFrame": 92,
+        "endFrame": 138,
+        "durationFrames": 46
+      },
+      {
+        "text": "できますが、生成さ",
+        "startFrame": 138,
+        "endFrame": 184,
+        "durationFrames": 46
+      },
+      {
+        "text": "れるコードをすべて",
+        "startFrame": 184,
+        "endFrame": 230,
+        "durationFrames": 46
+      },
+      {
+        "text": "理解する必要はありません。",
+        "startFrame": 230,
+        "endFrame": 279,
+        "durationFrames": 49
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "text": "remotionのスタジオ機能でプレビューが確認できるので、そちらをみながら調整していきましょう。",
+    "audio_file": "audio/segment_074.wav",
+    "duration_seconds": 5.376,
+    "start_frame": 8292,
+    "end_frame": 8454,
+    "duration_frames": 162,
+    "telop_lines": [
+      {
+        "text": "remotionの",
+        "startFrame": 0,
+        "endFrame": 32,
+        "durationFrames": 32
+      },
+      {
+        "text": "スタジオ機能で",
+        "startFrame": 32,
+        "endFrame": 64,
+        "durationFrames": 32
+      },
+      {
+        "text": "プレビューが確認",
+        "startFrame": 64,
+        "endFrame": 96,
+        "durationFrames": 32
+      },
+      {
+        "text": "できるので、そちらを",
+        "startFrame": 96,
+        "endFrame": 128,
+        "durationFrames": 32
+      },
+      {
+        "text": "みながら調整していきましょう。",
+        "startFrame": 128,
+        "endFrame": 162,
+        "durationFrames": 34
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "text": "文字の色やサイズを変えたい場合は、右の窓にpropsという設定画面があるので、そこを直接いじって変更ができます！",
+    "audio_file": "audio/segment_075.wav",
+    "duration_seconds": 7.370666666666667,
+    "start_frame": 8464,
+    "end_frame": 8686,
+    "duration_frames": 222,
+    "telop_lines": [
+      {
+        "text": "文字の色やサイズを",
+        "startFrame": 0,
+        "endFrame": 37,
+        "durationFrames": 37
+      },
+      {
+        "text": "変えたい場合は、右の",
+        "startFrame": 37,
+        "endFrame": 74,
+        "durationFrames": 37
+      },
+      {
+        "text": "窓にpropsという",
+        "startFrame": 74,
+        "endFrame": 111,
+        "durationFrames": 37
+      },
+      {
+        "text": "設定画面があるので、",
+        "startFrame": 111,
+        "endFrame": 148,
+        "durationFrames": 37
+      },
+      {
+        "text": "そこを直接いじって",
+        "startFrame": 148,
+        "endFrame": 185,
+        "durationFrames": 37
+      },
+      {
+        "text": "変更ができます！",
+        "startFrame": 185,
+        "endFrame": 222,
+        "durationFrames": 37
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "text": "ちなみにこの窓はカスタマイズ可能なので、理解できてみたらプロンプトでお願いしてみて下さいね！",
+    "audio_file": "audio/segment_076.wav",
+    "duration_seconds": 5.6,
+    "start_frame": 8696,
+    "end_frame": 8864,
+    "duration_frames": 168,
+    "telop_lines": [
+      {
+        "text": "ちなみにこの窓は",
+        "startFrame": 0,
+        "endFrame": 42,
+        "durationFrames": 42
+      },
+      {
+        "text": "カスタマイズ可能なので、理解できてみたら",
+        "startFrame": 42,
+        "endFrame": 84,
+        "durationFrames": 42
+      },
+      {
+        "text": "プロンプトでお願いして",
+        "startFrame": 84,
+        "endFrame": 126,
+        "durationFrames": 42
+      },
+      {
+        "text": "みて下さいね！",
+        "startFrame": 126,
+        "endFrame": 168,
+        "durationFrames": 42
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "text": "はじめて環境を作ると、正直なんかしらエラー出ることが多いです。",
+    "audio_file": "audio/segment_077.wav",
+    "duration_seconds": 4.192,
+    "start_frame": 8874,
+    "end_frame": 9000,
+    "duration_frames": 126,
+    "telop_lines": [
+      {
+        "text": "はじめて環境を作ると、",
+        "startFrame": 0,
+        "endFrame": 42,
+        "durationFrames": 42
+      },
+      {
+        "text": "正直なんかしらエラー",
+        "startFrame": 42,
+        "endFrame": 84,
+        "durationFrames": 42
+      },
+      {
+        "text": "出ることが多いです。",
+        "startFrame": 84,
+        "endFrame": 126,
+        "durationFrames": 42
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "text": "そういうときも焦らずにいっこいっこ対応していきましょう！",
+    "audio_file": "audio/segment_078.wav",
+    "duration_seconds": 3.082666666666667,
+    "start_frame": 9010,
+    "end_frame": 9103,
+    "duration_frames": 93,
+    "telop_lines": [
+      {
+        "text": "そういうときも焦らずに",
+        "startFrame": 0,
+        "endFrame": 31,
+        "durationFrames": 31
+      },
+      {
+        "text": "いっこいっこ対応して",
+        "startFrame": 31,
+        "endFrame": 62,
+        "durationFrames": 31
+      },
+      {
+        "text": "いきましょう！",
+        "startFrame": 62,
+        "endFrame": 93,
+        "durationFrames": 31
+      }
+    ]
+  },
+  {
+    "index": 79,
+    "text": "エラーが出たら、エラー文面をそのままターミナルにコピーして、クロードに聞いてみましょう。",
+    "audio_file": "audio/segment_079.wav",
+    "duration_seconds": 5.0986666666666665,
+    "start_frame": 9113,
+    "end_frame": 9266,
+    "duration_frames": 153,
+    "telop_lines": [
+      {
+        "text": "エラーが出たら、",
+        "startFrame": 0,
+        "endFrame": 38,
+        "durationFrames": 38
+      },
+      {
+        "text": "エラー文面をそのまま",
+        "startFrame": 38,
+        "endFrame": 76,
+        "durationFrames": 38
+      },
+      {
+        "text": "ターミナルにコピーして",
+        "startFrame": 76,
+        "endFrame": 114,
+        "durationFrames": 38
+      },
+      {
+        "text": "、クロードに聞いてみましょう。",
+        "startFrame": 114,
+        "endFrame": 153,
+        "durationFrames": 39
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "text": "一番大変なのは“最初の1本目”だけで、",
+    "audio_file": "audio/segment_080.wav",
+    "duration_seconds": 3.2746666666666666,
+    "start_frame": 9276,
+    "end_frame": 9375,
+    "duration_frames": 99,
+    "telop_lines": [
+      {
+        "text": "一番大変なのは“最初の",
+        "startFrame": 0,
+        "endFrame": 49,
+        "durationFrames": 49
+      },
+      {
+        "text": "1本目”だけで、",
+        "startFrame": 49,
+        "endFrame": 99,
+        "durationFrames": 50
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "text": "2本目からはファイルをコピーして、プロンプトを差し替えすることで量産できます！",
+    "audio_file": "audio/segment_081.wav",
+    "duration_seconds": 4.597333333333333,
+    "start_frame": 9385,
+    "end_frame": 9523,
+    "duration_frames": 138,
+    "telop_lines": [
+      {
+        "text": "2本目からはファイルをコピーして、",
+        "startFrame": 0,
+        "endFrame": 46,
+        "durationFrames": 46
+      },
+      {
+        "text": "プロンプトを差し替え",
+        "startFrame": 46,
+        "endFrame": 92,
+        "durationFrames": 46
+      },
+      {
+        "text": "することで量産できます！",
+        "startFrame": 92,
+        "endFrame": 138,
+        "durationFrames": 46
+      }
+    ]
+  },
+  {
+    "index": 82,
+    "text": "まずは、きょうのミニデモみたいな30秒動画を、まるっと真似してみてください",
+    "audio_file": "audio/segment_082.wav",
+    "duration_seconds": 4.661333333333333,
+    "start_frame": 9533,
+    "end_frame": 9673,
+    "duration_frames": 140,
+    "telop_lines": [
+      {
+        "text": "まずは、きょうのミニ",
+        "startFrame": 0,
+        "endFrame": 35,
+        "durationFrames": 35
+      },
+      {
+        "text": "デモみたいな30秒",
+        "startFrame": 35,
+        "endFrame": 70,
+        "durationFrames": 35
+      },
+      {
+        "text": "動画を、まるっと真似",
+        "startFrame": 70,
+        "endFrame": 105,
+        "durationFrames": 35
+      },
+      {
+        "text": "してみてください",
+        "startFrame": 105,
+        "endFrame": 140,
+        "durationFrames": 35
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "text": "慣れてきたら、“画像も入れて”“BGMもつけて”“テロップを動かして”みたいに、欲張りオーダーをAIにしていきましょう",
+    "audio_file": "audio/segment_083.wav",
+    "duration_seconds": 7.722666666666667,
+    "start_frame": 9683,
+    "end_frame": 9915,
+    "duration_frames": 232,
+    "telop_lines": [
+      {
+        "text": "慣れてきたら、“画像も",
+        "startFrame": 0,
+        "endFrame": 38,
+        "durationFrames": 38
+      },
+      {
+        "text": "入れて”“BGMも",
+        "startFrame": 38,
+        "endFrame": 76,
+        "durationFrames": 38
+      },
+      {
+        "text": "つけて”“テロップを",
+        "startFrame": 76,
+        "endFrame": 114,
+        "durationFrames": 38
+      },
+      {
+        "text": "動かして”みたいに、",
+        "startFrame": 114,
+        "endFrame": 152,
+        "durationFrames": 38
+      },
+      {
+        "text": "欲張りオーダーをAIに",
+        "startFrame": 152,
+        "endFrame": 190,
+        "durationFrames": 38
+      },
+      {
+        "text": "していきましょう",
+        "startFrame": 190,
+        "endFrame": 232,
+        "durationFrames": 42
+      }
+    ]
+  }
+]

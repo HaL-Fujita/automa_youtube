@@ -1,0 +1,758 @@
+[
+  {
+    "index": 0,
+    "text": "こんにちは！僕はおうとまくん、生成AIを一緒に勉強するロボットだよ！",
+    "audio_file": "audio/segment_000.wav",
+    "duration_seconds": 5.109333333333334,
+    "start_frame": 0,
+    "end_frame": 154,
+    "duration_frames": 154
+  },
+  {
+    "index": 1,
+    "text": "今日はremotion とclaude code できれいな動画生成に挑戦してみたから、",
+    "audio_file": "audio/segment_001.wav",
+    "duration_seconds": 4.789333333333333,
+    "start_frame": 164,
+    "end_frame": 308,
+    "duration_frames": 144
+  },
+  {
+    "index": 2,
+    "text": "解説と一緒に観てくれるとうれしいな。",
+    "audio_file": "audio/segment_002.wav",
+    "duration_seconds": 2.304,
+    "start_frame": 318,
+    "end_frame": 388,
+    "duration_frames": 70
+  },
+  {
+    "index": 3,
+    "text": "みんな、動画を投稿したい！ってなっても",
+    "audio_file": "audio/segment_003.wav",
+    "duration_seconds": 2.965333333333333,
+    "start_frame": 398,
+    "end_frame": 487,
+    "duration_frames": 89
+  },
+  {
+    "index": 4,
+    "text": "「動画編集って難しそう。。」",
+    "audio_file": "audio/segment_004.wav",
+    "duration_seconds": 1.7493333333333334,
+    "start_frame": 497,
+    "end_frame": 550,
+    "duration_frames": 53
+  },
+  {
+    "index": 5,
+    "text": "「プログラミングやったことないんだけど、ひとりでできるかな？」",
+    "audio_file": "audio/segment_005.wav",
+    "duration_seconds": 3.4346666666666668,
+    "start_frame": 560,
+    "end_frame": 664,
+    "duration_frames": 104
+  },
+  {
+    "index": 6,
+    "text": "とか、悩んだことはないかな？",
+    "audio_file": "audio/segment_006.wav",
+    "duration_seconds": 2.1546666666666665,
+    "start_frame": 674,
+    "end_frame": 739,
+    "duration_frames": 65
+  },
+  {
+    "index": 7,
+    "text": "今回は、そんな皆さんにむけて",
+    "audio_file": "audio/segment_007.wav",
+    "duration_seconds": 2.24,
+    "start_frame": 749,
+    "end_frame": 817,
+    "duration_frames": 68
+  },
+  {
+    "index": 8,
+    "text": "windowsで動画プログラミングを行う方法を教えちゃいます！！",
+    "audio_file": "audio/segment_008.wav",
+    "duration_seconds": 3.562666666666667,
+    "start_frame": 827,
+    "end_frame": 934,
+    "duration_frames": 107
+  },
+  {
+    "index": 9,
+    "text": "導入からざっくりとした使い方まで、雰囲気をつかんでくれるとうれしいな！！",
+    "audio_file": "audio/segment_009.wav",
+    "duration_seconds": 4.512,
+    "start_frame": 944,
+    "end_frame": 1080,
+    "duration_frames": 136
+  },
+  {
+    "index": 10,
+    "text": "今回の動画のゴールは、remotionとclaude codeを導入して簡単な動画を作成するところです！",
+    "audio_file": "audio/segment_010.wav",
+    "duration_seconds": 5.888,
+    "start_frame": 1090,
+    "end_frame": 1267,
+    "duration_frames": 177
+  },
+  {
+    "index": 11,
+    "text": "今日のメニューは",
+    "audio_file": "audio/segment_011.wav",
+    "duration_seconds": 1.0133333333333334,
+    "start_frame": 1277,
+    "end_frame": 1308,
+    "duration_frames": 31
+  },
+  {
+    "index": 12,
+    "text": "１ Claude Codeってなに？",
+    "audio_file": "audio/segment_012.wav",
+    "duration_seconds": 2.1973333333333334,
+    "start_frame": 1318,
+    "end_frame": 1384,
+    "duration_frames": 66
+  },
+  {
+    "index": 13,
+    "text": "２ Remotionってなに？",
+    "audio_file": "audio/segment_013.wav",
+    "duration_seconds": 1.8666666666666667,
+    "start_frame": 1394,
+    "end_frame": 1450,
+    "duration_frames": 56
+  },
+  {
+    "index": 14,
+    "text": "３ かんたんな動画を1本作るまでの流れ",
+    "audio_file": "audio/segment_014.wav",
+    "duration_seconds": 3.1786666666666665,
+    "start_frame": 1460,
+    "end_frame": 1556,
+    "duration_frames": 96
+  },
+  {
+    "index": 15,
+    "text": "の３本立てです！",
+    "audio_file": "audio/segment_015.wav",
+    "duration_seconds": 1.1306666666666667,
+    "start_frame": 1566,
+    "end_frame": 1600,
+    "duration_frames": 34
+  },
+  {
+    "index": 16,
+    "text": "では、まずはclaude codeの説明から行います。",
+    "audio_file": "audio/segment_016.wav",
+    "duration_seconds": 3.1573333333333333,
+    "start_frame": 1610,
+    "end_frame": 1705,
+    "duration_frames": 95
+  },
+  {
+    "index": 17,
+    "text": "Claude Codeは、“コードを書いてくれるチャット相手”みたいなAIです。",
+    "audio_file": "audio/segment_017.wav",
+    "duration_seconds": 4.16,
+    "start_frame": 1715,
+    "end_frame": 1840,
+    "duration_frames": 125
+  },
+  {
+    "index": 18,
+    "text": "導入には、node.js と、npm コマンドが使える環境が必要です！",
+    "audio_file": "audio/segment_018.wav",
+    "duration_seconds": 6.048,
+    "start_frame": 1850,
+    "end_frame": 2032,
+    "duration_frames": 182
+  },
+  {
+    "index": 19,
+    "text": "また、claude code 自体、導入にお金がかかるのですが、月数百円程度でけっこう使えるので、試しにやってみたい！という方にもおすすめです！",
+    "audio_file": "audio/segment_019.wav",
+    "duration_seconds": 9.642666666666667,
+    "start_frame": 2042,
+    "end_frame": 2332,
+    "duration_frames": 290
+  },
+  {
+    "index": 20,
+    "text": "claude code が普通のチャットボットと違うところは、",
+    "audio_file": "audio/segment_020.wav",
+    "duration_seconds": 3.2106666666666666,
+    "start_frame": 2342,
+    "end_frame": 2439,
+    "duration_frames": 97
+  },
+  {
+    "index": 21,
+    "text": "プロジェクト全体のファイルを見てくれる",
+    "audio_file": "audio/segment_021.wav",
+    "duration_seconds": 2.2186666666666666,
+    "start_frame": 2449,
+    "end_frame": 2516,
+    "duration_frames": 67
+  },
+  {
+    "index": 22,
+    "text": "新しいファイルをまとめて作ってくれる",
+    "audio_file": "audio/segment_022.wav",
+    "duration_seconds": 2.2506666666666666,
+    "start_frame": 2526,
+    "end_frame": 2594,
+    "duration_frames": 68
+  },
+  {
+    "index": 23,
+    "text": "エラー文を投げると、原因と直し方を説明してくれる",
+    "audio_file": "audio/segment_023.wav",
+    "duration_seconds": 3.6906666666666665,
+    "start_frame": 2604,
+    "end_frame": 2715,
+    "duration_frames": 111
+  },
+  {
+    "index": 24,
+    "text": "といったコード全体のアシスタントをしてくれるところです。",
+    "audio_file": "audio/segment_024.wav",
+    "duration_seconds": 3.1253333333333333,
+    "start_frame": 2725,
+    "end_frame": 2819,
+    "duration_frames": 94
+  },
+  {
+    "index": 25,
+    "text": "ですので、",
+    "audio_file": "audio/segment_025.wav",
+    "duration_seconds": 0.7146666666666667,
+    "start_frame": 2829,
+    "end_frame": 2851,
+    "duration_frames": 22
+  },
+  {
+    "index": 26,
+    "text": "コードを100%理解しなくても大丈夫。7割分かれば上等、残りはAIに聞く",
+    "audio_file": "audio/segment_026.wav",
+    "duration_seconds": 5.674666666666667,
+    "start_frame": 2861,
+    "end_frame": 3032,
+    "duration_frames": 171
+  },
+  {
+    "index": 27,
+    "text": "知らない単語は、そのままClaude Codeに『これ何？』って聞けばOK！",
+    "audio_file": "audio/segment_027.wav",
+    "duration_seconds": 4.714666666666667,
+    "start_frame": 3042,
+    "end_frame": 3184,
+    "duration_frames": 142
+  },
+  {
+    "index": 28,
+    "text": "という使い方で大丈夫です！",
+    "audio_file": "audio/segment_028.wav",
+    "duration_seconds": 1.888,
+    "start_frame": 3194,
+    "end_frame": 3251,
+    "duration_frames": 57
+  },
+  {
+    "index": 29,
+    "text": "Remotionは、“ReactっていうWeb技術で動画を作るツール”です。",
+    "audio_file": "audio/segment_029.wav",
+    "duration_seconds": 4.352,
+    "start_frame": 3261,
+    "end_frame": 3392,
+    "duration_frames": 131
+  },
+  {
+    "index": 30,
+    "text": "でもreactが何かについてはとくにわかってなくても大丈夫！",
+    "audio_file": "audio/segment_030.wav",
+    "duration_seconds": 3.456,
+    "start_frame": 3402,
+    "end_frame": 3506,
+    "duration_frames": 104
+  },
+  {
+    "index": 31,
+    "text": "ふつうの編集ではマウスでタイムラインをいじりますが、remotionでは、「何秒〜何秒に何を出すか」をコードで書く、というふうに考えてくださいね。",
+    "audio_file": "audio/segment_031.wav",
+    "duration_seconds": 9.024,
+    "start_frame": 3516,
+    "end_frame": 3787,
+    "duration_frames": 271
+  },
+  {
+    "index": 32,
+    "text": "動画編集初心者としてありがたいのは、",
+    "audio_file": "audio/segment_032.wav",
+    "duration_seconds": 2.4,
+    "start_frame": 3797,
+    "end_frame": 3869,
+    "duration_frames": 72
+  },
+  {
+    "index": 33,
+    "text": "いったんテンプレができたら、テキスト差し替えで量産できる",
+    "audio_file": "audio/segment_033.wav",
+    "duration_seconds": 3.456,
+    "start_frame": 3879,
+    "end_frame": 3983,
+    "duration_frames": 104
+  },
+  {
+    "index": 34,
+    "text": "解説動画・ニュース・商品紹介など“同じ型で大量生産”に強い",
+    "audio_file": "audio/segment_034.wav",
+    "duration_seconds": 5.461333333333333,
+    "start_frame": 3993,
+    "end_frame": 4157,
+    "duration_frames": 164
+  },
+  {
+    "index": 35,
+    "text": "ってところ。",
+    "audio_file": "audio/segment_035.wav",
+    "duration_seconds": 0.7253333333333334,
+    "start_frame": 4167,
+    "end_frame": 4189,
+    "duration_frames": 22
+  },
+  {
+    "index": 36,
+    "text": "ここまで使うツールについて説明してきたけど、",
+    "audio_file": "audio/segment_036.wav",
+    "duration_seconds": 2.688,
+    "start_frame": 4199,
+    "end_frame": 4280,
+    "duration_frames": 81
+  },
+  {
+    "index": 37,
+    "text": "Remotion：動画を動かす「土台」",
+    "audio_file": "audio/segment_037.wav",
+    "duration_seconds": 2.485333333333333,
+    "start_frame": 4290,
+    "end_frame": 4365,
+    "duration_frames": 75
+  },
+  {
+    "index": 38,
+    "text": "Claude Code：その上に乗せる「コード」を書いてくれる担当",
+    "audio_file": "audio/segment_038.wav",
+    "duration_seconds": 4.074666666666666,
+    "start_frame": 4375,
+    "end_frame": 4498,
+    "duration_frames": 123
+  },
+  {
+    "index": 39,
+    "text": "と覚えておいてくれるとうれしいな！",
+    "audio_file": "audio/segment_039.wav",
+    "duration_seconds": 1.9733333333333334,
+    "start_frame": 4508,
+    "end_frame": 4568,
+    "duration_frames": 60
+  },
+  {
+    "index": 40,
+    "text": "ここではコードによる動画編集に必要なものを列挙していくよ。",
+    "audio_file": "audio/segment_040.wav",
+    "duration_seconds": 3.7226666666666666,
+    "start_frame": 4578,
+    "end_frame": 4690,
+    "duration_frames": 112
+  },
+  {
+    "index": 41,
+    "text": "まず、PC（Windows / Mac）。それに、",
+    "audio_file": "audio/segment_041.wav",
+    "duration_seconds": 3.776,
+    "start_frame": 4700,
+    "end_frame": 4814,
+    "duration_frames": 114
+  },
+  {
+    "index": 42,
+    "text": "Node.js",
+    "audio_file": "audio/segment_042.wav",
+    "duration_seconds": 1.3653333333333333,
+    "start_frame": 4824,
+    "end_frame": 4865,
+    "duration_frames": 41
+  },
+  {
+    "index": 43,
+    "text": "コードエディタ（VS Codeなど）",
+    "audio_file": "audio/segment_043.wav",
+    "duration_seconds": 2.1973333333333334,
+    "start_frame": 4875,
+    "end_frame": 4941,
+    "duration_frames": 66
+  },
+  {
+    "index": 44,
+    "text": "Claude Code を使えるブラウザ環境",
+    "audio_file": "audio/segment_044.wav",
+    "duration_seconds": 2.6026666666666665,
+    "start_frame": 4951,
+    "end_frame": 5030,
+    "duration_frames": 79
+  },
+  {
+    "index": 45,
+    "text": "Remotion のスタータープロジェクト",
+    "audio_file": "audio/segment_045.wav",
+    "duration_seconds": 2.1866666666666665,
+    "start_frame": 5040,
+    "end_frame": 5106,
+    "duration_frames": 66
+  },
+  {
+    "index": 46,
+    "text": "が必要になってきます。",
+    "audio_file": "audio/segment_046.wav",
+    "duration_seconds": 1.4506666666666668,
+    "start_frame": 5116,
+    "end_frame": 5160,
+    "duration_frames": 44
+  },
+  {
+    "index": 47,
+    "text": "ここを細かくやるとそれだけで30分動画になるので、今回は“地図”としてのざっくり説明だけにとどめます。質問があったらコメントしてね！",
+    "audio_file": "audio/segment_047.wav",
+    "duration_seconds": 8.938666666666666,
+    "start_frame": 5170,
+    "end_frame": 5439,
+    "duration_frames": 269
+  },
+  {
+    "index": 48,
+    "text": "ざっくりの流れとしては、",
+    "audio_file": "audio/segment_048.wav",
+    "duration_seconds": 1.5146666666666666,
+    "start_frame": 5449,
+    "end_frame": 5495,
+    "duration_frames": 46
+  },
+  {
+    "index": 49,
+    "text": "Node.jsを公式サイトからインストール",
+    "audio_file": "audio/segment_049.wav",
+    "duration_seconds": 2.6773333333333333,
+    "start_frame": 5505,
+    "end_frame": 5586,
+    "duration_frames": 81
+  },
+  {
+    "index": 50,
+    "text": "ターミナル（コマンドプロンプト）でRemotionプロジェクト作成",
+    "audio_file": "audio/segment_050.wav",
+    "duration_seconds": 4,
+    "start_frame": 5596,
+    "end_frame": 5716,
+    "duration_frames": 120
+  },
+  {
+    "index": 51,
+    "text": "npm start でプレビュー",
+    "audio_file": "audio/segment_051.wav",
+    "duration_seconds": 1.7706666666666666,
+    "start_frame": 5726,
+    "end_frame": 5780,
+    "duration_frames": 54
+  },
+  {
+    "index": 52,
+    "text": "といった感じになります。",
+    "audio_file": "audio/segment_052.wav",
+    "duration_seconds": 1.4506666666666668,
+    "start_frame": 5790,
+    "end_frame": 5834,
+    "duration_frames": 44
+  },
+  {
+    "index": 53,
+    "text": "コマンドの意味は分からなくてOK。“コピペして動けば勝ち”くらいで大丈夫！！",
+    "audio_file": "audio/segment_053.wav",
+    "duration_seconds": 4.896,
+    "start_frame": 5844,
+    "end_frame": 5991,
+    "duration_frames": 147
+  },
+  {
+    "index": 54,
+    "text": "これがこれから行うフローの全体像だよ。",
+    "audio_file": "audio/segment_054.wav",
+    "duration_seconds": 2.6346666666666665,
+    "start_frame": 6001,
+    "end_frame": 6081,
+    "duration_frames": 80
+  },
+  {
+    "index": 55,
+    "text": "このあとのパートで、②〜④をミニデモで見せます！",
+    "audio_file": "audio/segment_055.wav",
+    "duration_seconds": 2.464,
+    "start_frame": 6091,
+    "end_frame": 6165,
+    "duration_frames": 74
+  },
+  {
+    "index": 56,
+    "text": "全部理解する必要はなくて、“流れがイメージできたら勝ち”と思って見てね。",
+    "audio_file": "audio/segment_056.wav",
+    "duration_seconds": 4.8213333333333335,
+    "start_frame": 6175,
+    "end_frame": 6320,
+    "duration_frames": 145
+  },
+  {
+    "index": 57,
+    "text": "6-1.まず日本語で仕様を決める（5:40〜6:10）",
+    "audio_file": "audio/segment_057.wav",
+    "duration_seconds": 5.9093333333333335,
+    "start_frame": 6330,
+    "end_frame": 6508,
+    "duration_frames": 178
+  },
+  {
+    "index": 58,
+    "text": "ここで意識するのは、いきなりコードじゃなくて、“日本語で仕様を書く”ところから始めます。",
+    "audio_file": "audio/segment_058.wav",
+    "duration_seconds": 5.472,
+    "start_frame": 6518,
+    "end_frame": 6683,
+    "duration_frames": 165
+  },
+  {
+    "index": 59,
+    "text": "例として決める内容を骨子だけ書き出すとこんな感じ。",
+    "audio_file": "audio/segment_059.wav",
+    "duration_seconds": 3.136,
+    "start_frame": 6693,
+    "end_frame": 6788,
+    "duration_frames": 95
+  },
+  {
+    "index": 60,
+    "text": "尺：30秒前後",
+    "audio_file": "audio/segment_060.wav",
+    "duration_seconds": 1.92,
+    "start_frame": 6798,
+    "end_frame": 6856,
+    "duration_frames": 58
+  },
+  {
+    "index": 61,
+    "text": "構成：",
+    "audio_file": "audio/segment_061.wav",
+    "duration_seconds": 0.7146666666666667,
+    "start_frame": 6866,
+    "end_frame": 6888,
+    "duration_frames": 22
+  },
+  {
+    "index": 62,
+    "text": "0〜5秒：タイトル",
+    "audio_file": "audio/segment_062.wav",
+    "duration_seconds": 1.92,
+    "start_frame": 6898,
+    "end_frame": 6956,
+    "duration_frames": 58
+  },
+  {
+    "index": 63,
+    "text": "5〜26秒：ポイント3つを順番に表示（各7秒）",
+    "audio_file": "audio/segment_063.wav",
+    "duration_seconds": 4.384,
+    "start_frame": 6966,
+    "end_frame": 7098,
+    "duration_frames": 132
+  },
+  {
+    "index": 64,
+    "text": "26〜30秒：まとめ",
+    "audio_file": "audio/segment_064.wav",
+    "duration_seconds": 2.485333333333333,
+    "start_frame": 7108,
+    "end_frame": 7183,
+    "duration_frames": 75
+  },
+  {
+    "index": 65,
+    "text": "背景色・文字色：落ち着いた見やすい配色",
+    "audio_file": "audio/segment_065.wav",
+    "duration_seconds": 3.4133333333333336,
+    "start_frame": 7193,
+    "end_frame": 7296,
+    "duration_frames": 103
+  },
+  {
+    "index": 66,
+    "text": "さっきの仕様を、そのままAIへの“お願い文章”に変えていきます。",
+    "audio_file": "audio/segment_066.wav",
+    "duration_seconds": 4.661333333333333,
+    "start_frame": 7306,
+    "end_frame": 7446,
+    "duration_frames": 140
+  },
+  {
+    "index": 67,
+    "text": "含めるポイントは以下の通りです。",
+    "audio_file": "audio/segment_067.wav",
+    "duration_seconds": 1.9626666666666666,
+    "start_frame": 7456,
+    "end_frame": 7515,
+    "duration_frames": 59
+  },
+  {
+    "index": 68,
+    "text": "Remotionで30秒の動画コンポーネントを作ってほしい",
+    "audio_file": "audio/segment_068.wav",
+    "duration_seconds": 3.3813333333333335,
+    "start_frame": 7525,
+    "end_frame": 7627,
+    "duration_frames": 102
+  },
+  {
+    "index": 69,
+    "text": "秒数ごとに表示するテキストを指定",
+    "audio_file": "audio/segment_069.wav",
+    "duration_seconds": 2.4106666666666667,
+    "start_frame": 7637,
+    "end_frame": 7710,
+    "duration_frames": 73
+  },
+  {
+    "index": 70,
+    "text": "背景・フォントサイズなども希望を書く",
+    "audio_file": "audio/segment_070.wav",
+    "duration_seconds": 2.624,
+    "start_frame": 7720,
+    "end_frame": 7799,
+    "duration_frames": 79
+  },
+  {
+    "index": 71,
+    "text": "「React初心者なのでコメント多めで」と頼む",
+    "audio_file": "audio/segment_071.wav",
+    "duration_seconds": 2.965333333333333,
+    "start_frame": 7809,
+    "end_frame": 7898,
+    "duration_frames": 89
+  },
+  {
+    "index": 72,
+    "text": "プロンプトは箇条書きで書くと真似しやすいですよ！",
+    "audio_file": "audio/segment_072.wav",
+    "duration_seconds": 2.816,
+    "start_frame": 7908,
+    "end_frame": 7993,
+    "duration_frames": 85
+  },
+  {
+    "index": 73,
+    "text": "さて、ここまで書くとclaude code がコードを生成してくれます。けっこう長いコードができますが、生成されるコードをすべて理解する必要はありません。",
+    "audio_file": "audio/segment_073.wav",
+    "duration_seconds": 9.269333333333334,
+    "start_frame": 8003,
+    "end_frame": 8282,
+    "duration_frames": 279
+  },
+  {
+    "index": 74,
+    "text": "remotionのスタジオ機能でプレビューが確認できるので、そちらをみながら調整していきましょう。",
+    "audio_file": "audio/segment_074.wav",
+    "duration_seconds": 5.376,
+    "start_frame": 8292,
+    "end_frame": 8454,
+    "duration_frames": 162
+  },
+  {
+    "index": 75,
+    "text": "文字の色やサイズを変えたい場合は、右の窓にpropsという設定画面があるので、そこを直接いじって変更ができます！",
+    "audio_file": "audio/segment_075.wav",
+    "duration_seconds": 7.370666666666667,
+    "start_frame": 8464,
+    "end_frame": 8686,
+    "duration_frames": 222
+  },
+  {
+    "index": 76,
+    "text": "ちなみにこの窓はカスタマイズ可能なので、理解できてみたらプロンプトでお願いしてみて下さいね！",
+    "audio_file": "audio/segment_076.wav",
+    "duration_seconds": 5.6,
+    "start_frame": 8696,
+    "end_frame": 8864,
+    "duration_frames": 168
+  },
+  {
+    "index": 77,
+    "text": "はじめて環境を作ると、正直なんかしらエラー出ることが多いです。",
+    "audio_file": "audio/segment_077.wav",
+    "duration_seconds": 4.192,
+    "start_frame": 8874,
+    "end_frame": 9000,
+    "duration_frames": 126
+  },
+  {
+    "index": 78,
+    "text": "そういうときも焦らずにいっこいっこ対応していきましょう！",
+    "audio_file": "audio/segment_078.wav",
+    "duration_seconds": 3.082666666666667,
+    "start_frame": 9010,
+    "end_frame": 9103,
+    "duration_frames": 93
+  },
+  {
+    "index": 79,
+    "text": "エラーが出たら、エラー文面をそのままターミナルにコピーして、クロードに聞いてみましょう。",
+    "audio_file": "audio/segment_079.wav",
+    "duration_seconds": 5.0986666666666665,
+    "start_frame": 9113,
+    "end_frame": 9266,
+    "duration_frames": 153
+  },
+  {
+    "index": 80,
+    "text": "一番大変なのは“最初の1本目”だけで、",
+    "audio_file": "audio/segment_080.wav",
+    "duration_seconds": 3.2746666666666666,
+    "start_frame": 9276,
+    "end_frame": 9375,
+    "duration_frames": 99
+  },
+  {
+    "index": 81,
+    "text": "2本目からはファイルをコピーして、プロンプトを差し替えすることで量産できます！",
+    "audio_file": "audio/segment_081.wav",
+    "duration_seconds": 4.597333333333333,
+    "start_frame": 9385,
+    "end_frame": 9523,
+    "duration_frames": 138
+  },
+  {
+    "index": 82,
+    "text": "まずは、きょうのミニデモみたいな30秒動画を、まるっと真似してみてください",
+    "audio_file": "audio/segment_082.wav",
+    "duration_seconds": 4.661333333333333,
+    "start_frame": 9533,
+    "end_frame": 9673,
+    "duration_frames": 140
+  },
+  {
+    "index": 83,
+    "text": "慣れてきたら、“画像も入れて”“BGMもつけて”“テロップを動かして”みたいに、欲張りオーダーをAIにしていきましょう",
+    "audio_file": "audio/segment_083.wav",
+    "duration_seconds": 7.722666666666667,
+    "start_frame": 9683,
+    "end_frame": 9915,
+    "duration_frames": 232
+  }
+]
